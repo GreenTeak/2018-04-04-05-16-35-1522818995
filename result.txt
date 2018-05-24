@@ -5,7 +5,11 @@ practice2
 'tengxun'	'xiaozhi'
 
 practice3
-'tengxun'	8000.0000
+ 'baidu'	 6000
+
+'alibaba'        7000
+
+'tengxun'        8000
 
 practice4
   1	'xiaohong'	19	'female'	1	7000	'alibaba'	6500.0000
